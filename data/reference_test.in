@@ -1,0 +1,8 @@
+testdata.dat # Input file (use testdata.dat or your nmr.dat if you have it)
+1400.0       # Baseline adjustment
+1.0e-11      # Tolerance
+1            # Filter type: 1 = Boxcar
+5            # Filter size: 5-point boxcar
+5            # Filter passes: 5 passes
+0            # Integration: 0 = Newton-Cotes
+reference_output.txt  # Output file

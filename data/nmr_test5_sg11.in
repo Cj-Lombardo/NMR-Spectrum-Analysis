@@ -1,0 +1,8 @@
+testdata.dat
+1000
+1e-8
+2            # SG filter
+11           # 11-point (valid)
+2            # 2 passes
+2            # Adaptive quadrature
+output5.txt

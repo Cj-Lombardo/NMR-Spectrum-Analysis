@@ -1,0 +1,24 @@
+-=> NMR ANALYSIS <=-
+
+Program Options
+===============================
+Baseline Adjustment : 1000
+Tolerance           : 1e-08
+Filter Type         : Savitzky-Golay
+Filter Size         : 9
+Filter Passes       : 17
+Integration Method  : Adaptive Quadrature
+
+Techniques
+===============================
+Adaptive Quadrature Integration
+
+Plot File Data
+===============================
+File: testdata.dat
+Plot shifted 2.96043 ppm for TMS calibration
+Baseline corrected (subtracted 0)
+
+Found 9 peaks
+
+Analysis took 0.032 seconds.

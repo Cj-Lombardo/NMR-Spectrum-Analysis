@@ -1,0 +1,24 @@
+-=> NMR ANALYSIS <=-
+
+Program Options
+===============================
+Baseline Adjustment : 1400
+Tolerance           : 1e-11
+Filter Type         : Boxcar (Cyclic)
+Filter Size         : 5
+Filter Passes       : 5
+Integration Method  : Newton-Cotes
+
+Techniques
+===============================
+Newton-Cotes Integration
+
+Plot File Data
+===============================
+File: testdata.dat
+Plot shifted 2.96043 ppm for TMS calibration
+Baseline corrected (subtracted 0)
+
+Found 7 peaks
+
+Analysis took 0.165 seconds.
